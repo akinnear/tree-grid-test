@@ -7,6 +7,8 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "@syncfusion/ej2-vue-grids": "^17.3.21",
+    "@syncfusion/ej2-vue-treegrid": "^17.3.21",
     "core-js": "^3.3.2",
     "vue": "^2.6.10"
   },
